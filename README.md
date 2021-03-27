@@ -14,11 +14,10 @@ Prerequisites
 
 Installation
 On primary node:
-1) sudo su - <sid admin>
-    Example: sudo su - prdadm
-    
-2) Copy src/*.py ~<sid admin>
+1) sudo su - prdadm    
+2) Copy src/*.py ~prdadm/
 
 To Run
+
 python populateHanaDB.py
 
