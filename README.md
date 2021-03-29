@@ -2,7 +2,7 @@
 Script that loads dummy data into HanaDB for testing purposes.
 
 This script was written to load dummy test data in a HANA database to
-test different behaviorial aspects os a HA cluster.
+test different behaviorial aspects of a HA cluster.
 
 Prerequisites
 1) SAP/Hana DB 2-node cluster (SLES4sap).  This script was developed and tested on 
